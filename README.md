@@ -1,12 +1,13 @@
 # Hello! 👋
 
-I'm Cláudio Leite, a passionate front-end developer with a knack for creating dynamic and user-friendly web applications.
+I'm Cláudio Leite, a front-end developer who loves creating dynamic and
+        user-friendly web applications.
 
 ## My Journey 🚀
 
-I began my coding journey seven months ago, diving into the Odin Project's Foundations course. This rigorous program gave me a solid grounding in HTML, CSS, and JavaScript through hands-on projects and an incredibly supportive community.
+I started my coding journey seven months ago with the Odin Project's Foundations course. This hands-on program taught me the basics of HTML, CSS, and JavaScript, supported by a great community.
 
-To further hone my skills, I pursued the **Meta Front-End Professional Certification**. This comprehensive course advanced my knowledge, covering modern frameworks and advanced topics. I became proficient in React, state management, and responsive design. One highlight was building the Little Lemon Restaurant Web App, a project that tested and showcased my skills comprehensively. You can explore this and other projects on my profile.
+To improve my skills even further, I completed the **Meta Front-End Professional Certification**. This comprehensive course advanced my knowledge, covering modern frameworks and advanced topics. I became proficient in React, state management, and responsive design. One highlight was building the Little Lemon Restaurant Web App, a project that tested and showcased my skills comprehensively. You can explore this and other projects on my profile.
 
 ## What's Next? 🌟
 
