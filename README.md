@@ -41,7 +41,6 @@ With 10 years of experience in fitness and athletic performance, I bring valuabl
 
 ## Contact Information 📫
 
-- **Email:** [Your Email]
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)
-- **GitHub:** [GitHub Profile](https://github.com)
-- **Portfolio:** [Portfolio Link](https://portfolio.com)
+- **Email:** [claudio.leite@hotmail.com]
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/claudio-leite-bb2a3262/)
+- **Portfolio:** [Portfolio Link](https://claudioportfolio.netlify.app/)
